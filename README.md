@@ -1,8 +1,8 @@
 ### Olá, Mundo! Robs aqui 👋
 
 - 🔭 Estou a procura de Estágio! :)
+- 🙉 Jogos no URI - Python
 - 🌱 Atualmente aprendendo JavaScript
-- 🤔 Procuro aprimorar-me em tecnologias do agronegócio
 - 💬 Sinta-se avontade para fazer perguntas
 - 📫 Contate-me no e-mail: robs.eng@outlook.com
 
