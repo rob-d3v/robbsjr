@@ -1,6 +1,6 @@
 ### Olá, Mundo! Robs aqui 👋
 
-- 🔭 Estou a procura de Estágio! :)
+- 🔭 Intern Dev. ! :)
 - 🙉 Jogos no URI - Python
 - 🌱 Atualmente aprendendo JavaScript
 - 💬 Sinta-se avontade para fazer perguntas
