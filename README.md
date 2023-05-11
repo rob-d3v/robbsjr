@@ -1,8 +1,8 @@
 ### Olá, Mundo! Robs aqui 👋
 
-- 🔭 Intern Dev. ! :)
+- 🔭 Dev. ! :) Java / C / C++ / Mysql / MQTT-JSON / Linux Arm/Rasp / Microcontrollers / Zigbee Radio System / RESTful API / HTML5 
 - 🙉 Jogos no URI - Python
-- 🌱 Atualmente aprendendo JavaScript
+- 🌱 Atualmente aprendendo Css, JS > Node, Vue
 - 💬 Sinta-se avontade para fazer perguntas
 - 📫 Contate-me no e-mail: robs.eng@outlook.com
 
