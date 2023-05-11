@@ -1,7 +1,7 @@
 ### Olá, Mundo! Robs aqui 👋
 
 - 🔭 Dev. ! :) Java / C / C++ / Mysql / MQTT-JSON / Linux Arm/Rasp / Microcontrollers / Zigbee Radio System / RESTful API / HTML5 
-- 🙉 Jogos no URI - Python
+- 🙉 Jogos no URI/Google Colab - Python
 - 🌱 Atualmente aprendendo Css, JS > Node, Vue
 - 💬 Sinta-se avontade para fazer perguntas
 - 📫 Contate-me no e-mail: robs.eng@outlook.com
