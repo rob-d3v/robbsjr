@@ -1,10 +1,48 @@
-### Olá, Mundo! Robs aqui 👋
+# Full Stack Developer & Hardware Designer
 
-- 🔭 Dev. ! :) Java / C / C++ / Mysql / MQTT-JSON / Linux Arm/Rasp / Microcontrollers / Zigbee Radio System / RESTful API / HTML5 
-- 🙉 Jogos no URI/Google Colab - Python
-- 🌱 Atualmente aprendendo Css, JS > Node, Vue
-- 💬 Sinta-se avontade para fazer perguntas
-- 📫 Contate-me no e-mail: robs.eng@outlook.com
+## Technical Skills
+
+### Software Development
+- **Back-end:** Java, NodeJS, Python
+- **Front-end:** React Native
+- **Systems Programming:** C, C++
+- **Cloud & DevOps:** AWS, Docker, Git
+- **Databases:** SQL, MongoDB
+- **Protocols:** MQTT, RESTful API
+- **Tools:** Postman, JSON
+
+### Hardware Engineering
+- PCB Design & Circuit Maintenance
+- **Microcontrollers:** 
+  - ESP32
+  - Arduino
+  - Zigbee
+  - ARM/Raspberry PI OS
+  
+### CAD & Design
+- AutoCAD 2D/3D
+- Fusion 360
+
+### Development Environment
+- Linux Systems
+- SCRUM Methodology
+
+## Professional Services
+- Web Development
+- Mobile Applications
+- AutoCAD 2D/3D Projects
+- Fusion 360 Modeling
+- Embedded Systems
+- PCB Design
+- Technical Writing
+
+## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)]
+
+## Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)]
+
+- 📫 robs.eng@outlook.com
 
 <div align="center">
   <a href="https://github.com/robbsjr">
