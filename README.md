@@ -104,18 +104,6 @@ Projetos diversos envolvendo automação residencial e industrial, com foco em e
 - 📐 Projetos em AutoCAD e Fusion 360
 - 📄 Documentação Técnica Especializada
 
-## 🌐 Meu Workflow
-
-```mermaid
-graph LR
-    A[Ideação] --> B[Prototipagem]
-    B --> C[Desenvolvimento]
-    C --> D[Testes]
-    D --> E[Deploy]
-    E --> F[Manutenção]
-    F -.-> C
-```
-
 ## 📫 Contato e Redes Sociais
 
 <div align="center">
